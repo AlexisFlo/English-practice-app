@@ -1,3 +1,5 @@
+// use std::error::Error;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Bienvenido a la aplicación para prácticar inglés.");
 }
